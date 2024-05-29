@@ -1,6 +1,5 @@
-# CaseStudy_HS_App
 
-## This repository is made for the Healthscope Graduate Data Scientist Case Study. It contains the Interactive web app created using streamlit.
+## This repository contains the Interactive web app created using streamlit for the UCI Air Quality dataset.
 
 
 - After cloning the repo, install the required packages using:
